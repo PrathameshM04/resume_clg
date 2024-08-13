@@ -1,0 +1,55 @@
+/* External CSS */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+h2 {
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+}
+
+header.jumbotron {
+    background: rgba(0, 123, 255, 0.8);
+    padding: 2rem;
+    border-radius: 0.5rem;
+}
+
+.navbar-brand, .nav-link {
+    color: #fff !important;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    text-decoration: underline;
+}
+
+.highlight {
+    background-color: #f8f9fa;
+    border-left: 4px solid #007bff;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.list-group-item {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.table {
+    margin-top: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+}
+
+footer p {
+    margin: 0;
+}
